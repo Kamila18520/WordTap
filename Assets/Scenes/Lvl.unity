@@ -1644,7 +1644,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenMode: 
-  countdownTime: 10
+  countdownTime: 15
   timeInInt: 0
   GameOverScreen: {fileID: 1868536236}
   GameManager: {fileID: 328322487}
